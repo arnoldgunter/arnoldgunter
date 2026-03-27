@@ -1,6 +1,6 @@
 # Hey, I'm Arnold Gunter 👋
 
-I'm a frontend developer and blogger based in Saxony, Germany.  
+I'm a frontend developer and blogger based in Germany.  
 I love building software as much as writing about it — and occasionally torturing myself with Marko.js.
 
 ---
