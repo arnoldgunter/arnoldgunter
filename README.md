@@ -9,6 +9,8 @@ I love building software as much as writing about it — and occasionally tortur
 
 - **[Notary](https://github.com/arnoldgunter/notary)** — Offline-first note-taking app for students. React + Tauri + SQLite + cloud backup.
 - **[PocketOffice](https://github.com/arnoldgunter/PocketOffice)** — Lightweight client & invoice management for freelancers. Next.js + Supabase.
+- **[VectorFeed](https://github.com/arnoldgunter/VectorFeed)** — A lightweight content-based recommender system using vectorized tag weighting, interaction feedback, and time-decayed user preferences. React
+
 
 ---
 
