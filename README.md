@@ -1,20 +1,38 @@
-# Hey, I'm Arnold Gunter 👋
+# Arnold Gunter
 
-I'm a frontend developer and blogger based in Germany.  
-I love building software as much as writing about it — and occasionally torturing myself with Marko.js.
-
----
-
-## 🛠️ What I Build
-
-- **[Notary](https://github.com/arnoldgunter/notary)** — Offline-first note-taking app for students. React + Tauri + SQLite + cloud backup.
-- **[PocketOffice](https://github.com/arnoldgunter/PocketOffice)** — Lightweight client & invoice management for freelancers. Next.js + Supabase.
-- **[VectorFeed](https://github.com/arnoldgunter/VectorFeed)** — A lightweight content-based recommender system using vectorized tag weighting, interaction feedback, and time-decayed user preferences. React
-
+Frontend engineer building clean, useful software — and writing about what I learn along the way.
 
 ---
 
-## 🧰 Stack
+## What I build
+
+- **[Notary](https://github.com/arnoldgunter/notary)**  
+  Offline-first note-taking app for students.  
+  Built with React, Tauri, SQLite and optional cloud backup.
+
+- **[PocketOffice](https://github.com/arnoldgunter/PocketOffice)**  
+  Lightweight client & invoice management for freelancers.  
+  Built with Next.js and Supabase.
+
+- **[VectorFeed](https://github.com/arnoldgunter/VectorFeed)**  
+  Experimental feed system exploring how user interactions shape content ranking.  
+  Built with React.
+
+---
+
+## Approach
+
+I like building systems that are:
+
+- simple on the surface  
+- structured under the hood  
+- easy to iterate on  
+
+Most of my work sits somewhere between product thinking and technical exploration.
+
+---
+
+## Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
@@ -26,18 +44,20 @@ I love building software as much as writing about it — and occasionally tortur
 
 ---
 
-## ✍️ Writing
+## Writing
 
-I write about frontend development, tools, and whatever I'm currently obsessed with learning.  
-**4,500+ followers on Medium** → [Read my blog](https://medium.com/@arnoldgunter)
+I write about frontend development, tools, and things I’m currently figuring out.  
 
----
-
-## 🔗 Find me
-
-[![Website](https://img.shields.io/badge/-arnoldgunter.com-orange?style=flat)](https://arnoldgunter.com)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@arnoldgunter)
+→ **4,500+ readers on Medium**  
+https://medium.com/@arnoldgunter
 
 ---
 
-> *"Obsessed with Linux, cutting-edge tech and always chasing the next tool worth learning."*
+## Links
+
+- https://arnoldgunter.com
+- https://medium.com/@arnoldgunter
+
+---
+
+> Focused on building things that actually work — and understanding why they do.
