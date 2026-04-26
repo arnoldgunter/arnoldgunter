@@ -18,6 +18,10 @@ Frontend engineer building clean, useful software — and writing about what I l
   Experimental feed system exploring how user interactions shape content ranking.  
   Built with React.
 
+- **[Icarus Local Agent](https://github.com/arnoldgunter/icarus-local-agent)**  
+Local AI agent with Ollama, multimodal file handling, memory, uploads, and human-approved read-only shell access.  
+Built with Python, Flask, FAISS and Ollama.
+
 ---
 
 ## Approach
