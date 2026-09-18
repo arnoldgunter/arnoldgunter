@@ -1,6 +1,6 @@
 # Arnold Gunter
 
-Frontend engineer building clean, useful software — and writing about what I learn along the way.
+Webdev building clean, useful software — and writing about what I learn along the way.
 
 ---
 
