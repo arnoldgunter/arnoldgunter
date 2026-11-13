@@ -22,7 +22,7 @@ Developer building clean, useful software — and writing about what I learn alo
   Local AI agent with Ollama, multimodal file handling, memory, uploads, and human-approved read-only shell access.  
   Built with Python, Flask, FAISS and Ollama.
 
-- **[Pixel Library]((https://github.com/erjolalatifllari/pixel-library))**  
+- **[Pixel Library](https://github.com/erjolalatifllari/pixel-library)**  
   "Pixel Library" is a cozy, interactive 2D pixel-art web application. Instead of a traditional dashboard, users navigate a virtual library using a 2D character to manage their book collection, wishlist, and reading notes. 
 
 - **[Hanvon Tablet Driver](https://github.com/arnoldgunter/hanvon-tablet-driver)**  
