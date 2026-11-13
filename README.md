@@ -1,6 +1,6 @@
 # Arnold Gunter
 
-Webdev building clean, useful software — and writing about what I learn along the way.
+Developer building clean, useful software — and writing about what I learn along the way.
 
 ---
 
@@ -19,8 +19,14 @@ Webdev building clean, useful software — and writing about what I learn along 
   Built with React.
 
 - **[Icarus Local Agent](https://github.com/arnoldgunter/icarus-local-agent)**  
-Local AI agent with Ollama, multimodal file handling, memory, uploads, and human-approved read-only shell access.  
-Built with Python, Flask, FAISS and Ollama.
+  Local AI agent with Ollama, multimodal file handling, memory, uploads, and human-approved read-only shell access.  
+  Built with Python, Flask, FAISS and Ollama.
+
+- **[Pixel Library](https://github.com/arnoldgunter/pixel-library)**  
+  A collection of pixel art resources and experiments.
+
+- **[Hanvon Tablet Driver](https://github.com/arnoldgunter/hanvon-tablet-driver)**  
+  Userspace Linux driver for the Hanvon AM0605 tablet.
 
 ---
 
@@ -43,6 +49,8 @@ Most of my work sits somewhere between product thinking and technical exploratio
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -50,7 +58,7 @@ Most of my work sits somewhere between product thinking and technical exploratio
 
 ## Writing
 
-I write about frontend development, tools, and things I’m currently figuring out.  
+I’m not writing regularly right now due to limited time, so some posts are a little older—but they still reflect what I’ve been learning.  
 
 → **4,500+ readers on Medium**  
 https://medium.com/@arnoldgunter
